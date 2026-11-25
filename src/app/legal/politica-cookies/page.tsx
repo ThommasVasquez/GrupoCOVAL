@@ -5,7 +5,7 @@ import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { DraftingCornerTicks } from "@/components/architectural/DraftingMarks";
 
 export const metadata = buildPageMetadata({
-  title: "Política de Cookies y Almacenamiento Local | Grupo Coval",
+  title: "Política de Cookies y Almacenamiento Local",
   description:
     "Información sobre cookies técnicas, almacenamiento de tema claro/oscuro, cesta de cotización de equipos y consentimiento analítico en el portal de Grupo Coval.",
   path: "/legal/politica-cookies",

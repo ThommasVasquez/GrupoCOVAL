@@ -23,7 +23,7 @@ export async function generateMetadata({
   const post = getBlogPostBySlug(slug);
   if (!post) {
     return buildPageMetadata({
-      title: "Artículo no encontrado | Grupo Coval",
+      title: "Artículo no encontrado",
       description: "Bitácora técnica de Grupo Coval.",
       path: "/blog",
       noIndex: true,
@@ -31,9 +31,11 @@ export async function generateMetadata({
   }
 
   return buildPageMetadata({
-    title: `${post.title} | Bitácora Técnica Grupo Coval`,
+    title: `${post.title} | Bitácora Técnica`,
     description: post.summary,
     path: `/blog/${post.slug}`,
+    ogType: "article",
+    publishedTime: post.publishedAt,
   });
 }
 

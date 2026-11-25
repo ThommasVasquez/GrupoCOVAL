@@ -12,7 +12,7 @@ import {
 } from "@/components/architectural/DraftingMarks";
 
 export const metadata = buildPageMetadata({
-  title: "Zonas de Cobertura | Bogotá, Soacha y Sibaté — Grupo Coval",
+  title: "Zonas de Cobertura | Bogotá, Soacha y Sibaté",
   description:
     "Cobertura directa de concreto premezclado (Km 5 vía Bogotá-Girardot), soluciones EPS (Km 14 vía Bogotá-Girardot) y maquinaria VT Ingequipos en Bogotá, Soacha y Sibaté.",
   path: "/zonas",

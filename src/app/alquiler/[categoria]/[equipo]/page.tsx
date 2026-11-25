@@ -43,11 +43,16 @@ export async function generateMetadata({
     });
   }
 
+  const imgDim = item.image ? getImageDimensions(item.image) : null;
+
   return buildPageMetadata({
     title: `${item.name} en Alquiler y Venta | ${cat.name} | VT Ingequipos`,
     description: `${item.name} disponible en alquiler, venta y mantenimiento con VT Ingequipos S.A.S. (Grupo Coval). Solicite disponibilidad para Bogotá, Soacha y Sibaté.`,
     path: `/alquiler/${cat.slug}/${item.slug}`,
-    ogImagePath: "/vt-ingequipos/opengraph-image",
+    ogImagePath: item.image ?? "/vt-ingequipos/opengraph-image",
+    ogImageWidth: imgDim?.width ?? 1200,
+    ogImageHeight: imgDim?.height ?? 630,
+    fallbackOgImagePath: "/vt-ingequipos/opengraph-image",
   });
 }
 

@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const alt =
-  "Grupo Coval — Coval Concretos, VT Ingequipos e Icopores Modulado en Bogotá, Soacha y Sibaté";
+  "Coval Concretos — Concreto Premezclado, Bombeo Estacionario y Autobomba | Grupo Coval";
 export const size = {
   width: 1200,
   height: 630,
@@ -35,11 +35,11 @@ export default function OpenGraphImage() {
           }}
         >
           <div style={{ display: "flex", flexDirection: "column" }}>
-            <span style={{ fontSize: "30px", fontWeight: 800 }}>
-              GRUPO COVAL
+            <span style={{ fontSize: "30px", fontWeight: 800, color: "#f06399" }}>
+              COVAL CONCRETOS
             </span>
             <span style={{ fontSize: "15px", color: "#52525b" }}>
-              INGENIERÍA &amp; SUMINISTROS · BOGOTÁ · SOACHA · SIBATÉ
+              GRUPO COVAL · KILÓMETRO 5 VÍA BOGOTÁ–GIRARDOT
             </span>
           </div>
 

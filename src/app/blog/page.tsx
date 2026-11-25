@@ -10,7 +10,7 @@ import {
 } from "@/components/architectural/DraftingMarks";
 
 export const metadata = buildPageMetadata({
-  title: "Bitácora Técnica y Guías de Obra | Grupo Coval",
+  title: "Bitácora Técnica y Guías de Obra",
   description:
     "Guías técnicas sobre concreto premezclado (bombeable, MR, tremie), aligeramiento de losas con casetones EPS (IMT) y encofrados Steel-Ply / maquinaria VT Ingequipos.",
   path: "/blog",

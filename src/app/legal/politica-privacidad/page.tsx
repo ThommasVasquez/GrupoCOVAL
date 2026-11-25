@@ -5,7 +5,7 @@ import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { DraftingCornerTicks } from "@/components/architectural/DraftingMarks";
 
 export const metadata = buildPageMetadata({
-  title: "Política de Privacidad y Protección de Datos (Ley 1581) | Grupo Coval",
+  title: "Política de Privacidad y Protección de Datos (Ley 1581)",
   description:
     "Política de tratamiento de datos personales de Grupo Coval conforme a la Ley Estatutaria 1581 de 2012 y el Decreto 1377 de 2013 de la República de Colombia.",
   path: "/legal/politica-privacidad",

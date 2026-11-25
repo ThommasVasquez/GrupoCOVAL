@@ -41,7 +41,7 @@ export async function generateMetadata({
   const zone = findZone(ciudad);
   if (!zone) {
     return buildPageMetadata({
-      title: "Zona no encontrada | Grupo Coval",
+      title: "Zona no encontrada",
       description: "Cobertura de Grupo Coval.",
       path: "/zonas",
       noIndex: true,
@@ -49,7 +49,7 @@ export async function generateMetadata({
   }
 
   return buildPageMetadata({
-    title: `Concreto Premezclado, Icopores EPS y Maquinaria en ${zone.name} | Grupo Coval`,
+    title: `Concreto Premezclado, Icopores EPS y Maquinaria en ${zone.name}`,
     description: `${zone.summary} ${zone.distanceNote}. Planta automatizada 45 m³/h, soluciones EPS y alquiler de equipos.`,
     path: `/zonas/${zone.slug}`,
   });

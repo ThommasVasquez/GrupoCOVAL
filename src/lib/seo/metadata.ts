@@ -7,6 +7,11 @@ export interface PageMetadataInput {
   description: string;
   path: string;
   ogImagePath?: string;
+  ogImageWidth?: number;
+  ogImageHeight?: number;
+  fallbackOgImagePath?: string;
+  ogType?: "website" | "article";
+  publishedTime?: string;
   noIndex?: boolean;
 }
 
@@ -15,6 +20,11 @@ export function buildPageMetadata({
   description,
   path,
   ogImagePath,
+  ogImageWidth = 1200,
+  ogImageHeight = 630,
+  fallbackOgImagePath,
+  ogType = "website",
+  publishedTime,
   noIndex = false,
 }: PageMetadataInput): Metadata {
   const group = getGroupEntity();
@@ -22,6 +32,28 @@ export function buildPageMetadata({
   const resolvedOgImage = ogImagePath
     ? absoluteUrl(ogImagePath)
     : absoluteUrl("/opengraph-image");
+  const resolvedFallback = fallbackOgImagePath
+    ? absoluteUrl(fallbackOgImagePath)
+    : null;
+
+  const ogImages = [
+    {
+      url: resolvedOgImage,
+      width: ogImageWidth,
+      height: ogImageHeight,
+      alt: `${title} — ${group.groupName}`,
+    },
+    ...(resolvedFallback && resolvedFallback !== resolvedOgImage
+      ? [
+          {
+            url: resolvedFallback,
+            width: 1200,
+            height: 630,
+            alt: `${title} — ${group.groupName}`,
+          },
+        ]
+      : []),
+  ];
 
   return {
     title,
@@ -46,20 +78,14 @@ export function buildPageMetadata({
           },
         },
     openGraph: {
-      type: "website",
+      type: ogType,
       locale: "es_CO",
       url: canonical,
       siteName: group.groupName,
       title,
       description,
-      images: [
-        {
-          url: resolvedOgImage,
-          width: 1200,
-          height: 630,
-          alt: `${title} — ${group.groupName}`,
-        },
-      ],
+      ...(ogType === "article" && publishedTime ? { publishedTime } : {}),
+      images: ogImages,
     },
     twitter: {
       card: "summary_large_image",

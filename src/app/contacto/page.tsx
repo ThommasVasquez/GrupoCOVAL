@@ -10,7 +10,7 @@ import { OpenCalculatorButton } from "@/components/calculators/OpenCalculatorBut
 import { DraftingCornerTicks } from "@/components/architectural/DraftingMarks";
 
 export const metadata = buildPageMetadata({
-  title: "Contacto Comercial y Cotizaciones | Grupo Coval",
+  title: "Contacto Comercial y Cotizaciones",
   description:
     "Solicite cotización directa de concreto premezclado (Coval Concretos Km 5), casetones y muro panel EPS (Icopores Modulado Km 14) y maquinaria de obra (VT Ingequipos).",
   path: "/contacto",
