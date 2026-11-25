@@ -52,7 +52,7 @@ export default function ContactoPage() {
 
             <AnswerCapsule
               question="¿Cómo contactar directamente a Grupo Coval y sus unidades de negocio?"
-              answer={`Comuníquese a la línea unificada ${group.phoneDisplay} o escriba a ${group.email} (Coval Concretos / VT Ingequipos) y ${icopores.about.email} (Icopores Modulado Tequendama).`}
+              answer={`Comuníquese a la línea unificada ${group.phoneDisplay} o escriba al correo corporativo oficial ${group.email}.`}
             />
 
             <div className="divide-y divide-[var(--border-subtle)] border-y border-[var(--border-subtle)]">
@@ -91,14 +91,14 @@ export default function ContactoPage() {
               <div className="py-4 space-y-1">
                 <p className="flex items-center gap-2 font-mono text-xs uppercase tracking-wider text-[var(--text-tertiary)]">
                   <Mail aria-hidden="true" className="h-3.5 w-3.5" />
-                  <span>Correos electrónicos</span>
+                  <span>Correo electrónico oficial</span>
                 </p>
-                <p className="font-mono text-xs text-[var(--text-primary)]">
+                <a
+                  href={`mailto:${group.email}`}
+                  className="inline-block font-mono text-xs text-[var(--text-primary)] underline underline-offset-4 hover:text-[var(--brand-primary)]"
+                >
                   {group.email}
-                </p>
-                <p className="font-mono text-xs text-[var(--text-primary)]">
-                  {icopores.about.email}
-                </p>
+                </a>
               </div>
             </div>
 
