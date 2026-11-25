@@ -1,0 +1,642 @@
+[
+  {
+    "slug": "rodillo-doble-tambor-persona-sentada",
+    "legacySlug": "rodillo-doble-tambor-persona-sentada",
+    "name": "Rodillo doble tambor persona sentada",
+    "category": "linea-maquinaria-pesada",
+    "image": "/images/equipos/Rodillo-doble-tambor-persona-sentada-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": null
+  },
+  {
+    "slug": "rodillo-doble-tambor-bw-75h",
+    "legacySlug": "rodillo-doble-tambor-bw-75h",
+    "name": "Rodillo doble tambor BW-75H",
+    "category": "linea-maquinaria-pesada",
+    "image": "/images/equipos/Rodillo-doble-tambor-BW-75H-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Rodillo-doble-tambor-BW-75H-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "minicargador-262d",
+    "legacySlug": "minicargador-262d",
+    "name": "Minicargador 262D",
+    "category": "linea-maquinaria-pesada",
+    "image": "/images/equipos/Minicargador-262D-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Minicargador-262D-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "generador-de-energia-diesel-35kwa-gss3",
+    "legacySlug": "generador-de-energia-diesel-35kwa-gss3",
+    "name": "Generador de energia diesel 35KWA GSS3",
+    "category": "linea-maquinaria-pesada",
+    "image": "/images/equipos/Generador-de-energia-diesel-35KWA-GSS30-2-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Generador-de-energia-diesel-35KWA-GSS30-2-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "compresor-neumatico-185-cfm-diesel",
+    "legacySlug": "compresor-neumatico-185-cfm-diesel",
+    "name": "Compresor neumatico 185 CFM diesel",
+    "category": "linea-maquinaria-pesada",
+    "image": "/images/equipos/Compresor-neumatico-185-CFM-diesel-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Compresor-neumatico-185-CFM-diesel-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "pluma-grua-master-con-balde-y-canastilla",
+    "legacySlug": "pluma-grua-master-con-balde-y-canastilla",
+    "name": "Pluma grua master con balde y canastilla",
+    "category": "linea-multifuncional",
+    "image": "/images/equipos/Pluma-grua-master-con-balde-y-canastilla-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Pluma-grua-master-con-balde-y-canastilla-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "mezcladora-de-concreto",
+    "legacySlug": "mezcladora-de-concreto",
+    "name": "Mezcladora de Concreto",
+    "category": "linea-multifuncional",
+    "image": "/images/equipos/Mezcladora-de-Concreto-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Mezcladora-de-Concreto-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "cortadora-de-pavimento",
+    "legacySlug": "cortadora-de-pavimento",
+    "name": "Cortadora de pavimento",
+    "category": "linea-multifuncional",
+    "image": "/images/equipos/Cortadora-de-pavimento-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Cortadora-de-pavimento-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "cortadora-de-ladrillo",
+    "legacySlug": "cortadora-de-ladrillo",
+    "name": "Cortadora de ladrillo",
+    "category": "linea-multifuncional",
+    "image": "/images/equipos/Cortadora-de-ladrillo-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Cortadora-de-ladrillo-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "hidrolavadora-1500psi",
+    "legacySlug": "hidrolavadora-1500psi",
+    "name": "Hidrolavadora 1500psi",
+    "category": "linea-limpieza",
+    "image": "/images/equipos/Hidrolavadora-1500psi-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Hidrolavadora-1500psi-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "brilladora-industrial-kf-175",
+    "legacySlug": "brilladora-industrial-kf-175",
+    "name": "Brilladora industrial KF 175",
+    "category": "linea-limpieza",
+    "image": "/images/equipos/Brilladora-industrial-KF-175-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Brilladora-industrial-KF-175-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "aspiradora-industrial-nt-702-me-classic-vex",
+    "legacySlug": "aspiradora-industrial-nt-702-me-classic-vex",
+    "name": "Aspiradora industrial NT 702 Me Classic VEX",
+    "category": "linea-limpieza",
+    "image": "/images/equipos/Aspiradora-industrial-NT-702-Me-Classic-VEX-vt-equipo.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Aspiradora-industrial-NT-702-Me-Classic-VEX-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "aspiradora-industrial-ivc-80",
+    "legacySlug": "aspiradora-industrial-ivc-80",
+    "name": "Aspiradora industrial IVC-80",
+    "category": "linea-limpieza",
+    "image": "/images/equipos/Aspiradora-industrial-IVC-80-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Aspiradora-industrial-IVC-80-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "multimetro-digital-ut-151f",
+    "legacySlug": "multimetro-digital-ut-151f",
+    "name": "Multimetro digital UT-151F",
+    "category": "linea-general",
+    "image": "/images/equipos/Multimetro-digital-UT-151F-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Multimetro-digital-UT-151F-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "medidor-laser-de-distancia-glm-100c",
+    "legacySlug": "medidor-laser-de-distancia-glm-100c",
+    "name": "Medidor laser de distancia GLM-100C",
+    "category": "linea-general",
+    "image": "/images/equipos/Medidor-laser-de-distancia-GLM-100C-vt-equipos-1.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Medidor-laser-de-distancia-GLM-100C-vt-equipos-especificaciones-1.webp"
+  },
+  {
+    "slug": "extractor-industrial-24-vm-255319",
+    "legacySlug": "extractor-industrial-24-vm-255319",
+    "name": "Extractor industrial 24 VM-255319",
+    "category": "linea-general",
+    "image": "/images/equipos/Extractor-industrial-24-VM-255319-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Extractor-industrial-24-VM-255319-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "extractor-industrial-16-vm-255317",
+    "legacySlug": "extractor-industrial-16-vm-255317",
+    "name": "Extractor industrial 16 VM-255317",
+    "category": "linea-general",
+    "image": "/images/equipos/Extractor-industrial-16-VM-255317-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Extractor-industrial-16-VM-255317-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "ducto-ventilacion-trdct10127",
+    "legacySlug": "ducto-ventilacion-trdct10127",
+    "name": "Ducto ventilación TRDCT10127",
+    "category": "linea-general",
+    "image": "/images/equipos/Ducto-ventilacion-TRDCT10127-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Ducto-ventilacion-TRDCT10127-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "manguera-tipo-bombero-2-3-4",
+    "legacySlug": "manguera-tipo-bombero-2-3-4",
+    "name": "Manguera tipo bombero 2 3 4",
+    "category": "linea-general",
+    "image": "/images/equipos/Manguera-tipo-bombero-2-3-4-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Manguera-tipo-bombero-2-3-4-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "estibadoras-manuales-carga-2500kg",
+    "legacySlug": "estibadoras-manuales-carga-2500kg",
+    "name": "Estibadoras manuales carga 2500KG",
+    "category": "linea-general",
+    "image": "/images/equipos/Estibadoras-manuales-carga-2500KG-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Estibadoras-manuales-carga-2500KG-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "compresor-de-aire-200lt-2-2kw",
+    "legacySlug": "compresor-de-aire-200lt-2-2kw",
+    "name": "Compresor de aire 200lt 2.2KW",
+    "category": "linea-general",
+    "image": "/images/equipos/Compresor-de-aire-200lt-2.2KW-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Compresor-de-aire-200lt-2.2KW-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "electrobomba-de-alta-presion-2-1a0083",
+    "legacySlug": "electrobomba-de-alta-presion-2-1a0083",
+    "name": "Electrobomba de alta presion 2 1A0083",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Electrobomba-de-alta-presion-2-1A0083-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Electrobomba-de-alta-presion-2-1A0083-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "bomba-sumergible-4-1c0061",
+    "legacySlug": "bomba-sumergible-4-1c0061",
+    "name": "Bomba Sumergible 4 1C0061",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Bomba-Sumergible-4-1C0061-vt-equipos-copia.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Bomba-Sumergible-4-1C0061-vt-equipos-especificaciones-copia.webp"
+  },
+  {
+    "slug": "bomba-sumergible-3-1c0025",
+    "legacySlug": "bomba-sumergible-3-1c0025",
+    "name": "Bomba Sumergible 3 1C0025",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Bomba-Sumergible-3-1C0025-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Bomba-Sumergible-3-1C0025-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "bomba-sumergible-2-1c0016",
+    "legacySlug": "bomba-sumergible-2-1c0016",
+    "name": "Bomba Sumergible 2 1C0016",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Bomba-Sumergible-2-1C0016-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Bomba-Sumergible-2-1C0016-vt-equipos-especificaciones-copia.webp"
+  },
+  {
+    "slug": "vibrador-de-concreto",
+    "legacySlug": "vibrador-de-concreto",
+    "name": "Vibrador de concreto",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Vibrador-de-concreto-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Vibrador-de-concreto-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "tronzadora-gco-2000",
+    "legacySlug": "tronzadora-gco-2000",
+    "name": "Tronzadora GCO 2000",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Tronzadora-GCO-2000-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Tronzadora-GCO-2000-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "taladro-saca-nucleos",
+    "legacySlug": "taladro-saca-nucleos",
+    "name": "Taladro saca nucleos",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Taladro-saca-nucleos-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Taladro-saca-nucleos-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "taladro-rotacion-reversible",
+    "legacySlug": "taladro-rotacion-reversible",
+    "name": "Taladro rotación reversible",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Taladro-rotacion-reversible-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Taladro-rotacion-reversible-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "sierra-ingleteadora-gcm-12x",
+    "legacySlug": "sierra-ingleteadora-gcm-12x",
+    "name": "Sierra ingleteadora GCM 12X",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Sierra-ingleteadora-GCM-12X-vt-equipo.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Sierra-ingleteadora-GCM-12X-vt-equipo-especificaciones.webp"
+  },
+  {
+    "slug": "sierra-circular-gks-67",
+    "legacySlug": "sierra-circular-gks-67",
+    "name": "Sierra circular GKS-67",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Sierra-circular-GKS-67-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Sierra-circular-GKS-67-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "rotomartillo-demoledor-gbh11-de",
+    "legacySlug": "rotomartillo-demoledor-gbh11-de",
+    "name": "Rotomartillo demoledor GBH11-DE",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Rotomartillo-demoledor-GBH11-DE-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Rotomartillo-demoledor-GBH11-DE-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "rotomartillo-demoledor-gbh8-45d",
+    "legacySlug": "rotomartillo-demoledor-gbh8-45d",
+    "name": "Rotomartillo demoledor GBH8-45D",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Rotomartillo-demoledor-GBH8-45D-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Rotomartillo-demoledor-GBH8-45D-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "rotomartillo-demoledor-gbh5-40d",
+    "legacySlug": "rotomartillo-demoledor-gbh5-40d",
+    "name": "Rotomartillo demoledor GBH5-40D",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Rotomartillo-demoledor-GBH5-40D-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Rotomartillo-demoledor-GBH5-40D-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "rotomartillo-demoledor-gbh4-32dfr",
+    "legacySlug": "rotomartillo-demoledor-gbh4-32dfr",
+    "name": "Rotomartillo demoledor GBH4-32DFR",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Rotomartillo-demoledor-GBH4-32DFR-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Rotomartillo-demoledor-GBH4-32DFR-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "rotomartillo-demoledor-gbh2-24df",
+    "legacySlug": "rotomartillo-demoledor-gbh2-24df",
+    "name": "Rotomartillo demoledor GBH2-24DF",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Rotomartillo-demoledor-GBH2-24DF-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Rotomartillo-demoledor-GBH2-24DF-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "pulidora-concreto-gbr-14ca",
+    "legacySlug": "pulidora-concreto-gbr-14ca",
+    "name": "Pulidora concreto GBR-14CA",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Pulidora-concreto-GBR-14CA-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Pulidora-concreto-GBR-14CA-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "pulidora-angular-9-gws20-230",
+    "legacySlug": "pulidora-angular-9-gws20-230",
+    "name": "Pulidora angular 9 GWS20-230",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Pulidora-angular-9-GWS20-230-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Pulidora-angular-9-GWS20-230-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "pulidora-angular-7-gws20-180",
+    "legacySlug": "pulidora-angular-7-gws20-180",
+    "name": "Pulidora angular 7 GWS20-180",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Pulidora-angular-7-GWS20-180-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Pulidora-angular-7-GWS20-180-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "mototool-punta-ggs-28",
+    "legacySlug": "mototool-punta-ggs-28",
+    "name": "Mototool punta GGS 28",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Mototool-punta-GGS-28-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Mototool-punta-GGS-28-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "mini-pulidora-angular-4-gws-9115",
+    "legacySlug": "mini-pulidora-angular-4-gws-9115",
+    "name": "Mini Pulidora angular 4 GWS-9115",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Mini-Pulidora-angular-4-GWS-9115-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Mini-Pulidora-angular-4-GWS-9115-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "martillo-demoledor-gsh-27vc",
+    "legacySlug": "martillo-demoledor-gsh-27vc",
+    "name": "Martillo demoledor GSH-27VC",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Martillo-demoledor-GSH-27VC-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Martillo-demoledor-GSH-27VC-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "martillo-demoledor-gsh-11vc",
+    "legacySlug": "martillo-demoledor-gsh-11vc",
+    "name": "Martillo demoledor GSH-11VC",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Martillo-demoledor-GSH-11VC-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Martillo-demoledor-GSH-11VC-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "martillo-demoledor-gsh-11e",
+    "legacySlug": "martillo-demoledor-gsh-11e",
+    "name": "Martillo demoledor GSH-11E",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Martillo-demoledor-GSH-11E-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Martillo-demoledor-GSH-11E-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "martillo-demoledor-gsh-5",
+    "legacySlug": "martillo-demoledor-gsh-5",
+    "name": "Martillo demoledor GSH-5",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Martillo-demoledor-GSH-5-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Martillo-demoledor-GSH-5-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "equipo-de-soldadura-s300-c",
+    "legacySlug": "equipo-de-soldadura-s300-c",
+    "name": "Equipo de soldadura S300 C",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Equipo-de-soldadura-S300-C-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Equipo-de-soldadura-S300-C-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "equipo-de-soldadura-400-tpx",
+    "legacySlug": "equipo-de-soldadura-400-tpx",
+    "name": "Equipo de soldadura 400 TPX",
+    "category": "linea-electrica",
+    "image": "/images/equipos/Equipo-de-soldadura-400-TPX-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Equipo-de-soldadura-400-TPX-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "allanadora-36",
+    "legacySlug": "allanadora-36",
+    "name": "Allanadora 36",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Allanadora-36-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Allanadora-36-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "benitin-350x350",
+    "legacySlug": "benitin-350x350",
+    "name": "Benitin 350×350",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Benitin-350x350-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Benitin-350x350-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "bomba-autocebante-en-hierro-diesel-6",
+    "legacySlug": "bomba-autocebante-en-hierro-diesel-6",
+    "name": "Bomba autocebante en Hierro diesel 6",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Bomba-autocebante-diesel-6-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Bomba-autocebante-diesel-6-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "guadanadora-barnes",
+    "legacySlug": "guadanadora-barnes",
+    "name": "Guadañadora Barnes",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Guadanadora-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Guadanadora-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "hidrolavadora-3000ps",
+    "legacySlug": "hidrolavadora-3000ps",
+    "name": "Hidrolavadora 3000PS",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Hidrolavadora-3000PSI-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Hidrolavadora-3000PSI-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "hidrolavadora-3600ps",
+    "legacySlug": "hidrolavadora-3600ps",
+    "name": "Hidrolavadora 3600PS",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Hidrolavadora-3600PSI-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Hidrolavadora-3600PSI-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "motobomba-autocebante-diesel-4-2",
+    "legacySlug": "motobomba-autocebante-diesel-4-2",
+    "name": "Motobomba autocebante diesel Perkins 4",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Motobomba-autocebante-diesel-4-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Motobomba-autocebante-diesel-4-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "motobomba-autocebante-diesel-4",
+    "legacySlug": "motobomba-autocebante-diesel-4",
+    "name": "Motobomba autocebante diesel 4",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Motobomba-autocebante-diesel-4-vt-equipos-1.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Motobomba-autocebante-diesel-4-vt-equipos-especificaciones-1.webp"
+  },
+  {
+    "slug": "motobomba-autocebante-gasolina-2",
+    "legacySlug": "motobomba-autocebante-gasolina-2",
+    "name": "Motobomba autocebante gasolina 2",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Motobomba-autocebante-gasolina-2-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Motobomba-autocebante-gasolina-2-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "motobomba-autocebante-gasolina-3",
+    "legacySlug": "motobomba-autocebante-gasolina-3",
+    "name": "Motobomba autocebante gasolina 3",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Motobomba-autocebante-gasolina-3-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Motobomba-autocebante-gasolina-3-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "motor-a-gasolina",
+    "legacySlug": "motor-a-gasolina",
+    "name": "Motor a Gasolina",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Motor-a-Gasolina-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Motor-a-Gasolina-vt-equipos_Especificaciones.webp"
+  },
+  {
+    "slug": "planta-electrica-6kwa",
+    "legacySlug": "planta-electrica-6kwa",
+    "name": "Planta Electrica 6KWA",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Planta-Electrica-6KWA-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Planta-Electrica-6KWA-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "planta-electrica-12-kwa",
+    "legacySlug": "planta-electrica-12-kwa",
+    "name": "Planta Electrica 12 KWA",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Planta-Electrica-12-KWA-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Planta-Electrica-12-KWA-vt-equipos_especificaciones.webp"
+  },
+  {
+    "slug": "vibrador-a-gasolina",
+    "legacySlug": "vibrador-a-gasolina",
+    "name": "Vibrador a gasolina",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Vibrador-a-gasolina-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Vibrador-a-gasolina-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "vibrocompactador-tipo-canguro-2",
+    "legacySlug": "vibrocompactador-tipo-canguro-2",
+    "name": "Vibrocompactador Tipo canguro 2",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Vibrocompactador-Tipo-canguro-2-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Vibrocompactador-Tipo-canguro-2-vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "vibrocompactador-tipo-canguro",
+    "legacySlug": "vibrocompactador-tipo-canguro",
+    "name": "Vibrocompactador Tipo canguro",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Vibrocompactador-Tipo-canguro-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Vibrocompactador-Tipo-canguro_vt-equipos-especificaciones.webp"
+  },
+  {
+    "slug": "vibrocompactador-tipo-rana",
+    "legacySlug": "vibrocompactador-tipo-rana-vt-equipos",
+    "name": "Vibrocompactador Tipo Rana",
+    "category": "linea-diesel-gasolina",
+    "image": "/images/equipos/Vibrocompactador-Tipo-Rana-vt-equipos.webp",
+    "summary": null,
+    "description": null,
+    "specImage": "/images/equipos-specs/Vibrocompactador-Tipo-Rana-vt-equipos-especificaciones.webp"
+  }
+]

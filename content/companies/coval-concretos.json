@@ -1,0 +1,219 @@
+{
+  "seo": {
+    "title": "Coval Concretos | Concreto Premezclado, Bombeo Estacionario y Autobomba",
+    "description": "Coval Concretos: más que un servicio, calidad y seguridad en concreto premezclado, asistencia técnica, bombeo estacionario y autobomba desde Km 5 vía Bogotá-Girardot (45 m³/h, 7 mixers)."
+  },
+  "hero": {
+    "eyebrow": "Coval Concretos · Kilómetro 5 / Vía Bogotá–Girardot",
+    "h1": "Más que un servicio, ofrecemos una gran experiencia de calidad y seguridad en todos sus proyectos",
+    "geoQuestion": "¿Qué servicios y capacidad ofrece Coval Concretos?",
+    "geoAnswer": "Somos una empresa colombiana fundada el 15 de septiembre del 2021, dedicada a la producción, transporte y suministro de concreto premezclado. También prestamos los servicios de asistencia técnica, bombeo estacionario y autobomba desde nuestra planta automatizada en el Kilómetro 5 vía Bogotá-Girardot (45 m³/h · 7 mixers · respuesta por ronda 54 m³).",
+    "heroImage": "/images/concretos/Muro-cemento_Coval.webp"
+  },
+  "about": {
+    "foundedText": "Somos una empresa Colombiana fundada el 15 de septiembre del 2021, dedicada a la producción, transporte y suministro de concreto premezclado. También prestamos los servicios de asistencia técnica, bombeo estacionario y autobomba.",
+    "mission": "Ser un aliado estratégico para nuestros clientes ofreciendo soluciones sostenibles en la industria, satisfaciendo las necesidades que se presenten en el desarrollo constructivo y contribuyendo al desarrollo económico del municipio de Soacha y Sibaté.",
+    "objectives": [
+      "Crear valores ecológicamente sostenibles que aporten al cuidado ambiental.",
+      "Ofrecerles una mejor calidad de vida a nuestros funcionarios contratando personal de la zona.",
+      "Consolidar y posicionar nuestra presencia de marca con calidad, cumplimiento y seguridad a nivel nacional."
+    ]
+  },
+  "trackRecord": {
+    "yearsExperience": 15,
+    "projectsCompleted": 1500,
+    "satisfactionPercent": 99.9
+  },
+  "plant": {
+    "location": "Kilómetro 5 / Vía Bogotá–Girardot",
+    "type": "Planta Automatizada",
+    "capacityM3Hour": 45,
+    "mixersCount": 7,
+    "roundCapacityM3": 54,
+    "gallery": [
+      {
+        "src": "/images/concretos/Planta-sur_1.webp",
+        "alt": "Planta automatizada de Coval Concretos en Kilómetro 5 vía Bogotá-Girardot"
+      },
+      {
+        "src": "/images/concretos/Planta-sur_2.webp",
+        "alt": "Infraestructura de dosificación de Coval Concretos"
+      },
+      {
+        "src": "/images/concretos/Planta-sur_3.webp",
+        "alt": "Mixers de Coval Concretos en planta"
+      },
+      {
+        "src": "/images/concretos/Planta-sur_6.webp",
+        "alt": "Operación en planta automatizada Coval Concretos"
+      }
+    ]
+  },
+  "concreteTypes": [
+    {
+      "id": "convencional-bombeable",
+      "name": "Convencional – Bombeable",
+      "summary": "Servicio especializado en la colocación de concreto en las áreas de difícil acceso, en alturas y en elementos que requieran un rápido proceso de fundición. Cumplimos con los más altos estándares de calidad y seguridad, ofreciendo un servicio de bombeo que cumple las necesidades de nuestros clientes.",
+      "image": "/images/concretos/Concreto-de-Bombeo-Coval.webp",
+      "pdfUrl": "/fichas/Concreto-Bombeable_Coval.pdf",
+      "pdfTitle": "Ficha Técnica Concreto Convencional Bombeable",
+      "strengths": "175 - 210 - 245 - 280 - 315 - 350 - 385 - 420 kg/cm²",
+      "specAge": "28 días",
+      "maxAggregate": "1\" (25 mm) – 1/2\" (12,5 mm)",
+      "workability": "3 h (± 0,5 h)",
+      "slump": "150 mm (6\") ± 25 mm (±1\")",
+      "settingTime": "Inicial 8 h · Final 10 h (± 1,5 h)",
+      "densityOrAir": "Aire máx. 2,0% (± 1%)",
+      "applications": "Ver ficha técnica oficial PDF"
+    },
+    {
+      "id": "modulo-rotura-mr",
+      "name": "Módulo de Rotura (MR)",
+      "summary": "Se desarrolló con un parámetro de contracción por secado, indispensable para construir losas y pisos industriales. Adecuado para superficies sujetas a condiciones de cargas especializadas como montacargas y estructuras de almacenamiento, entre otras.",
+      "image": "/images/concretos/Concreto-Pisos-Coval.webp",
+      "pdfUrl": "/fichas/Concreto-para-Pisos_Coval.pdf",
+      "pdfTitle": "Ficha Técnica Concreto Módulo de Rotura (MR)",
+      "strengths": "Flexión s/ NTC 2871: 36 - 39 - 41 - 43 - 45 - 50 kg/cm²",
+      "specAge": "28 días",
+      "maxAggregate": "1\" (25 mm) – 1/2\" (12,5 mm)",
+      "workability": "3 h (± 0,5 h)",
+      "slump": "150 mm (6\") ± 25 mm (±1\")",
+      "settingTime": "Inicial 8 h · Final 10 h (± 1,5 h)",
+      "densityOrAir": "2350–2400 kg/m³ · Aire máx. 1,5%",
+      "applications": "Losas y pisos industriales según ficha técnica"
+    },
+    {
+      "id": "industrializado",
+      "name": "Industrializados",
+      "summary": "Gracias a la consistencia de su mezcla, es la opción adecuada para edificaciones con sistemas que requieren mayores velocidades constructivas. Permite el desarrollo de resistencias a temprana edad y un manejo adecuado al colocarlo.",
+      "image": "/images/concretos/Concreto-Industrializado-Coval.webp",
+      "pdfUrl": "/fichas/Concreto-Industrializado_Coval.pdf",
+      "pdfTitle": "Ficha Técnica Concreto Industrializado",
+      "strengths": "210 - 245 - 280 - 315 - 350 - 385 - 420 kg/cm²",
+      "specAge": "Inicial 14–18 h (15%–20% f'c) · Final 28 d (100% f'c)",
+      "maxAggregate": "Muro 1/2\" (12,5 mm) · Placa 1\"–1/2\"",
+      "workability": "Muro 2 h · Placa 2,5 h (± 0,5 h)",
+      "slump": "Muro 200 mm (8\") · Placa 150 mm (6\") ± 25 mm",
+      "settingTime": "Inicial 6 h · Final 8 h (± 1,5 h)",
+      "densityOrAir": "2350–2400 kg/m³ · Aire máx. 2,0%",
+      "applications": "Muro y placa en sistemas industrializados según ficha técnica"
+    },
+    {
+      "id": "tremie-tornillo",
+      "name": "Tremie / Tornillo",
+      "summary": "El objetivo de las cimentaciones en concreto es brindar un medio para que las cargas provenientes de la superestructura, concentradas en columnas o muros, se transmitan al suelo produciendo un sistema de esfuerzos resistibles de forma segura, con asentamientos tolerables y no diferenciales. Su escogencia depende de una variedad de factores que deben considerarse con el fin de brindar la estabilidad correspondiente al proyecto que se construirá.",
+      "image": "/images/concretos/Concreto-Cimentacion-Profunda-Coval.webp",
+      "pdfUrl": "/fichas/Concreto-Cimentaciones-Profundas_Coval.pdf",
+      "pdfTitle": "Ficha Técnica Concreto Tremie y Tornillo",
+      "strengths": "210 - 245 - 280 - 315 - 350 - 385 - 420 kg/cm²",
+      "specAge": "28 días",
+      "maxAggregate": "Tremie 1\"–1/2\" · Tornillo 1/2\" (12,5 mm)",
+      "workability": "Tremie 3,5 h · Tornillo 4,5 h (± 0,5 h)",
+      "slump": "Tremie 200 mm (8\") · Tornillo NTC 5222 65 cm (10\")",
+      "settingTime": "Tremie 9–11 h · Tornillo 11–13 h (± 1,5 h)",
+      "densityOrAir": "2350–2400 kg/m³ · Aire máx. 2,0%",
+      "applications": "Cimentaciones profundas según ficha técnica"
+    }
+  ],
+  "pumpingServices": [
+    {
+      "id": "bomba-estacionaria",
+      "name": "Bombeo Estacionario",
+      "summary": "Servicio especializado de Coval Concretos para la colocación de concreto en áreas de difícil acceso, en alturas y en elementos que requieran un rápido proceso de fundición.",
+      "recommendedFor": "Asistencia técnica en obra según condiciones de acceso",
+      "images": [
+        "/images/concretos/GALERIA-4.webp",
+        "/images/concretos/GALERIA-12.webp"
+      ]
+    },
+    {
+      "id": "autobomba",
+      "name": "Autobomba",
+      "summary": "Colocación de concreto premezclado con autobomba y asistencia técnica en obra, despachada en coordinación con nuestra planta automatizada Km 5.",
+      "recommendedFor": "Programación con asesoría rápida (+57 316 2948000)",
+      "images": [
+        "/images/concretos/Planta-sur_3.webp",
+        "/images/concretos/Muro-cemento_Coval.webp"
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "id": "ficha-bombeable",
+      "title": "Concreto Convencional Bombeable",
+      "company": "concretos",
+      "category": "175–420 kg/cm²",
+      "fileUrl": "/fichas/Concreto-Bombeable_Coval.pdf",
+      "fileSizeLabel": "461 KB",
+      "statusNote": "Ficha técnica oficial"
+    },
+    {
+      "id": "ficha-mr",
+      "title": "Concreto Módulo de Rotura (MR)",
+      "company": "concretos",
+      "category": "NTC 2871 · 36–50 kg/cm²",
+      "fileUrl": "/fichas/Concreto-para-Pisos_Coval.pdf",
+      "fileSizeLabel": "493 KB",
+      "statusNote": "Ficha técnica oficial"
+    },
+    {
+      "id": "ficha-industrializado",
+      "title": "Concreto Industrializado",
+      "company": "concretos",
+      "category": "Muro y Placa · 210–420 kg/cm²",
+      "fileUrl": "/fichas/Concreto-Industrializado_Coval.pdf",
+      "fileSizeLabel": "499 KB",
+      "statusNote": "Ficha técnica oficial"
+    },
+    {
+      "id": "ficha-cimentacion",
+      "title": "Concreto Tremie y Tornillo",
+      "company": "concretos",
+      "category": "Cimentación Profunda",
+      "fileUrl": "/fichas/Concreto-Cimentaciones-Profundas_Coval.pdf",
+      "fileSizeLabel": "464 KB",
+      "statusNote": "Ficha técnica oficial"
+    }
+  ],
+  "projectGallery": [
+    { "src": "/images/concretos/GALERIA-16.webp", "alt": "Fundición de obra Coval Concretos 1" },
+    { "src": "/images/concretos/GALERIA-4.webp", "alt": "Colocación de concreto premezclado en obra 2" },
+    { "src": "/images/concretos/GALERIA-12.webp", "alt": "Operación de suministro de concreto 3" },
+    { "src": "/images/concretos/GALERIA-2.webp", "alt": "Proyecto estructural atendido por Coval Concretos 4" },
+    { "src": "/images/concretos/GALERIA-19.webp", "alt": "Vaciado en placa y estructura Coval Concretos 5" },
+    { "src": "/images/concretos/GALERIA-15.webp", "alt": "Obra ejecutada con concreto premezclado Coval 6" },
+    { "src": "/images/concretos/GALERIA-17.webp", "alt": "Registro de obra Coval Concretos 7" },
+    { "src": "/images/concretos/GALERIA-3.webp", "alt": "Despacho y colocación en obra Coval Concretos 8" },
+    { "src": "/images/concretos/GALERIA-13.webp", "alt": "Obra atendida en corredor Soacha–Sibaté 9" }
+  ],
+  "allies": {
+    "image": "/images/concretos/Aliados-clean.webp",
+    "names": [
+      "ALION (Cementos Molins Corona)",
+      "Cementos Tequendama",
+      "Idicol",
+      "Concrelab",
+      "GCP",
+      "Euclid Chemical Toxement",
+      "Agregados La Peña de Horeb S.A.S."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "¿Dónde está ubicada la planta de Coval Concretos y cuál es su capacidad?",
+      "answer": "Nuestra planta automatizada está ubicada en el Kilómetro 5 vía Bogotá-Girardot, con una capacidad de 45 m³/h y una flota de 7 mixers (respuesta por ronda de 54 m³)."
+    },
+    {
+      "question": "¿Qué tipos de concreto premezclado ofrece Coval Concretos?",
+      "answer": "Producimos cuatro líneas según nuestras fichas técnicas oficiales: Convencional-Bombeable (175 a 420 kg/cm²), Módulo de Rotura MR para losas y pisos industriales (36 a 50 kg/cm² según NTC 2871), Industrializados para muro y placa (210 a 420 kg/cm²), y Tremie / Tornillo para cimentaciones profundas (210 a 420 kg/cm²)."
+    },
+    {
+      "question": "¿Qué servicios presta Coval Concretos en obra?",
+      "answer": "Coval Concretos se dedica exclusivamente a la producción, transporte y suministro de concreto premezclado, junto con servicios de asistencia técnica, bombeo estacionario y autobomba para su colocación."
+    },
+    {
+      "question": "¿Cómo solicitar asesoría rápida o cotizar concreto en m³?",
+      "answer": "Puede usar nuestro Cotizador de Concreto (m³), llamar o escribir por WhatsApp al (+57) 316 2948000, o enviar su requerimiento al correo vtingequipos1@gmail.com."
+    }
+  ]
+}

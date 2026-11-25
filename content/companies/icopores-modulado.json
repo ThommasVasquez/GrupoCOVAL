@@ -1,0 +1,148 @@
+{
+  "seo": {
+    "title": "Icopores Modulador Tequendama (IMT) | Casetones EPS, Muro Panel y Juntas",
+    "description": "Icopores Modulador Tequendama (Grupo Coval): +10 años en Kilómetro 14 vía Bogotá-Girardot fabricando casetón modulado, casetón perdido, muro panel y juntas de dilatación en EPS."
+  },
+  "hero": {
+    "eyebrow": "IMT · Kilómetro 14 vía Bogotá–Girardot · +10 años de experiencia",
+    "h1": "Soluciones en icopor (EPS) para aligeramiento de losas y proyectos inmobiliarios",
+    "geoQuestion": "¿Qué suministra Icopores Modulado de Grupo Coval?",
+    "geoAnswer": "Icopores Modulado fabrica y suministra soluciones en poliestireno expandido (EPS) desde el Kilómetro 14 vía Bogotá–Girardot, con más de 10 años en el sector constructor: casetón modulado, casetón perdido para forjados unidireccionales y reticulares, muro panel liviano y juntas de dilatación, junto con acompañamiento en anteproyectos de presupuesto, dirección, seguridad y certificados.",
+    "heroImage": "/images/icopores/icopores-modular-tequedama_imagen-principal.webp"
+  },
+  "about": {
+    "experienceSummary": "Para proyectos inmobiliarios, contamos con más de 10 años de experiencia en el mercado, a lo largo de los cuales nos hemos comprometido con nuestros recursos en el mejoramiento continuo de la empresa.",
+    "address": "Kilómetro 14 vía Bogotá - Girardot",
+    "phoneDisplay": "(+57) 316 2948000",
+    "email": "icoporesmoduladostequendama@gmail.com",
+    "expertisePillars": [
+      "Anteproyectos de presupuesto",
+      "Dirección",
+      "Seguridad",
+      "Certificados"
+    ],
+    "galleryImages": [
+      {
+        "src": "/images/icopores/icopores-modular-tequedama_imagen_2.webp",
+        "alt": "Edificación inmobiliaria ejecutada con soluciones constructivas de Grupo Coval"
+      },
+      {
+        "src": "/images/icopores/icopores-modular-tequedama_imagen_3.webp",
+        "alt": "Bloques de poliestireno expandido EPS de Icopores Modulado Tequendama"
+      }
+    ]
+  },
+  "stats": {
+    "years": 10,
+    "airPercentage": 98,
+    "recyclablePercentage": 100
+  },
+  "products": [
+    {
+      "id": "caseton-modulado",
+      "name": "Casetón Modulado",
+      "summary": "Utilizados para el aligeramiento de losas generando mayor rendimiento del concreto.",
+      "applicationNote": "Optimiza el consumo de concreto premezclado en losas entrepisos al desplazar volumen muerto de la sección estructural.",
+      "image": "/images/icopores/icopores-modular-tequedama_producto-1.webp"
+    },
+    {
+      "id": "caseton-perdido",
+      "name": "Casetón Perdido",
+      "summary": "Piezas que se quedan dentro del forjado, aligerando el peso de la construcción.",
+      "applicationNote": "Permanece embebido dentro de forjados unidireccionales o reticulares conformados in situ, aportando aislamiento térmico y ligereza.",
+      "image": "/images/icopores/icopores-modular-tequedama_producto-2.webp"
+    },
+    {
+      "id": "muro-panel",
+      "name": "Muro Panel",
+      "summary": "Eficientes y económicos, ya que su peso por metro cuadrado es menor, lo que facilita su instalación y manipulación en sus proyectos.",
+      "applicationNote": "Panel con núcleo en poliestireno expandido y malla estructural para cerramientos y particiones de menor peso por metro cuadrado.",
+      "image": "/images/icopores/icopores-modular-tequedama_producto-3.webp"
+    },
+    {
+      "id": "juntas-dilatacion",
+      "name": "Juntas de Dilatación",
+      "summary": "Resisten todas las condiciones meteorológicas adversas y presentan una enorme tolerancia al movimiento de los materiales.",
+      "applicationNote": "Separación constructiva entre placas y elementos estructurales para absorber dilataciones y asentamientos diferenciales.",
+      "image": "/images/icopores/icopores-modular-tequedama_producto-4.webp"
+    }
+  ],
+  "slabSystemsIntro": "Los casetones son piezas con forma rectangular o cúbica que se utilizan en los encofrados para aligerar el peso de las edificaciones. Tradicionalmente se han fabricado con hormigón o madera, pero el material que proporciona un mayor aligeramiento y la mejor relación calidad-precio es el poliestireno expandido (EPS).",
+  "slabSystems": [
+    {
+      "id": "unidireccional",
+      "name": "Forjado unidireccional",
+      "description": "Se apoya en la estructura portante mediante los bordes, jácenas y vigas. Como indica su nombre, los elementos resistentes se disponen en una sola dirección."
+    },
+    {
+      "id": "reticular",
+      "name": "Forjado reticular",
+      "description": "Lo forma una cápsula de nervios de hormigón armado, de pequeña anchura, que permite suprimir las vigas. Se macizan únicamente las zonas cercanas a los apoyos, encargados de recibir las cargas del forjado y distribuirlas por los pilares."
+    }
+  ],
+  "benefits": [
+    {
+      "id": "humedad",
+      "title": "Resistencia a la humedad",
+      "description": "El EPS no se ve afectado por el agua ni la humedad, es impermeable."
+    },
+    {
+      "id": "mecanica",
+      "title": "Resistencia mecánica",
+      "description": "Soporta cargas mecánicas gracias a su especial configuración en forma de celdas, lo que permite construir estructuras con elevada resistencia vertical y horizontal."
+    },
+    {
+      "id": "durabilidad",
+      "title": "Durabilidad",
+      "description": "Tiene una vida útil muy larga, pues sus características no se ven alteradas con el transcurso del tiempo."
+    },
+    {
+      "id": "inercia-quimica",
+      "title": "Inercia química",
+      "description": "Material plástico inerte que no emite lixiviados que afecten al terreno ni a las aguas subterráneas."
+    },
+    {
+      "id": "termica",
+      "title": "Resistencia térmica",
+      "description": "Su efecto aislante evita la congelación del subsuelo y protege las estructuras de los daños producidos por las heladas."
+    },
+    {
+      "id": "reciclaje",
+      "title": "Reciclaje",
+      "description": "Es un monomaterial homogéneo 100% reciclable. Además, al estar compuesto en un 98% por aire, minimiza la huella de carbono."
+    },
+    {
+      "id": "versatilidad",
+      "title": "Versatilidad",
+      "description": "Tanto por corte como mediante moldeo, ofrece infinidad de posibilidades en formas y diseños adaptables a cada estructura."
+    },
+    {
+      "id": "ligereza",
+      "title": "Ligereza",
+      "description": "Su bajo peso facilita la manipulación y puesta en obra, evitando riesgos de accidente para los operarios."
+    },
+    {
+      "id": "aislamiento",
+      "title": "Aislamiento",
+      "description": "Su resistencia térmica mejora el aislamiento entre viviendas."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Para qué se utilizan los casetones de poliestireno expandido (EPS)?",
+      "answer": "Son piezas rectangulares o cúbicas utilizadas en encofrados para aligerar forjados unidireccionales o reticulares conformados in situ, reduciendo el peso propio de la estructura, mejorando el aislamiento térmico y aumentando el rendimiento del concreto."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre forjado unidireccional y forjado reticular?",
+      "answer": "El forjado unidireccional apoya sus elementos resistentes en una sola dirección sobre jácenas y vigas, mientras que el forjado reticular está formado por una retícula de nervios de concreto armado en dos direcciones que permite suprimir vigas descolgadas y macizar solo los ábacos cercanos a pilares."
+    },
+    {
+      "question": "¿Qué productos fabrica y comercializa Icopores Modulado?",
+      "answer": "Su portafolio oficial incluye Casetón Modulado, Casetón Perdido, Muro Panel y Juntas de Dilatación en poliestireno expandido (EPS), además de soporte en anteproyectos de presupuesto, dirección, seguridad y certificados."
+    },
+    {
+      "question": "¿Dónde está ubicada la planta de Icopores Modulado y cómo cotizar?",
+      "answer": "Opera en el Kilómetro 14 vía Bogotá – Girardot con más de 10 años de trayectoria. Puede solicitar cotización directamente en la línea (+57) 316 2948000 o al correo icoporesmoduladostequendama@gmail.com."
+    }
+  ]
+}

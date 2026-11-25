@@ -1,0 +1,168 @@
+{
+  "seo": {
+    "title": "VT Ingequipos | Alquiler, Venta y Mantenimiento de Equipos de Construcción",
+    "description": "VT Ingequipos S.A.S., más de 20 años en Bogotá: 6 líneas de maquinaria, encofrados Steel-Ply, accesorios para torres grúa, andamios colgantes, bombas de concreto, mixer y mantenimiento."
+  },
+  "hero": {
+    "eyebrow": "VT Ingequipos S.A.S. · Más de 20 años en Bogotá",
+    "h1": "Alquiler, venta y mantenimiento de maquinaria, formaleta y equipos de obra",
+    "geoQuestion": "¿Qué servicios y equipos ofrece VT Ingequipos para construcción?",
+    "geoAnswer": "VT Ingequipos S.A.S., fundada en Bogotá hace más de 20 años, presta servicios de entrega, fabricación, comercialización, distribución, venta, alquiler, mantenimiento y reparación de maquinaria y sistemas de formaleta en seis líneas (eléctrica, diésel/gasolina, general, maquinaria pesada, multifuncional y limpieza), junto con encofrados Steel-Ply, accesorios para torres grúa, andamios colgantes, bombas de concreto y alquiler de mixer en el +57 316 2948000.",
+    "heroImage": "/images/ingequipos/Banner_VT-_Ingequipos.webp"
+  },
+  "about": {
+    "whoWeAre": "Somos una entidad privada fundada en Bogotá hace 20 años con el propósito de ofrecer servicios basados en las necesidades de la construcción: entrega, fabricación, comercialización y distribución de equipos y formaleta de gran calidad. Hemos desarrollado nuestros servicios con equipos sofisticados y personal altamente calificado para dar soluciones en las áreas de mantenimiento, venta, alquiler y reparación de maquinaria para la construcción, respaldados por especialistas en control de calidad, área administrativa y agentes comerciales.",
+    "mission": "Somos una empresa que busca satisfacer necesidades en las diferentes áreas de la ingeniería para los distintos sectores de la construcción y el diseño de obras civiles, ofreciendo simultáneamente servicio de venta, alquiler y mantenimiento de equipos e insumos para el sector de la construcción y el agro.",
+    "vision": "A corto plazo VT Ingequipos S.A.S. será una empresa ubicada y consolidada totalmente en el sector de la construcción desarrollando obras civiles y de infraestructura, utilizando como apoyo la venta, alquiler y mantenimiento de equipos e insumos para el sector de la construcción, ofreciendo productos y servicios que cumplan con altos estándares de calidad para un excelente servicio a nuestros clientes.",
+    "qualityPolicy": "Tenemos como compromiso satisfacer las necesidades de nuestros clientes con la entrega, fabricación, comercialización y distribución de equipos y formaleta para la construcción, ofreciendo productos de alta calidad basados en un control de procesos óptimos, nuevas tecnologías, equipo humano calificado, mejora continua y despachos oportunos."
+  },
+  "stats": {
+    "years": 20,
+    "lines": 6,
+    "steelPlyUses": 200
+  },
+  "specialServices": [
+    {
+      "id": "encofrados-steel-ply",
+      "title": "Encofrados Steel-Ply",
+      "summary": "Sistema de encofrado de concreto prediseñado, reutilizable y construido en fábrica para aplicaciones manuales o en serie en estructuras comerciales o residenciales. Paneles y rellenos en madera contrachapada laminada montados en resistentes bastidores de acero, utilizables hasta 200 veces antes de reemplazar la madera.",
+      "details": [
+        "Formación de muros de casi cualquier forma o dimensión con accesorios especiales",
+        "Combinación modular de tamaños estándar más productiva y económica que la madera en obra",
+        "Paneles en madera contrachapada laminada sobre bastidores de acero (hasta 200 usos)"
+      ],
+      "images": [
+        "/images/ingequipos/Encofrados-Steel-Ply_1.webp",
+        "/images/ingequipos/Encofrados-Steel-Ply_2.webp",
+        "/images/ingequipos/Encofrados-Steel-Ply_3.webp",
+        "/images/ingequipos/Encofrados-Steel-Ply_4.webp",
+        "/images/ingequipos/Encofrados-Steel-Ply_5.webp"
+      ]
+    },
+    {
+      "id": "accesorios-torres-gruas",
+      "title": "Accesorios para Torres Grúas",
+      "summary": "Amplia variedad de accesorios certificados para torres grúas destinados a izaje seguro y movilización vertical de materiales y concreto en obra.",
+      "details": [
+        "Plataformas de descarga",
+        "Baldes autodescargables",
+        "Canastas para estibas",
+        "Estrobos y eslingas de nylon"
+      ],
+      "images": [
+        "/images/ingequipos/Accesorios-torre-gruas_Plataforma-de-Descargue.webp",
+        "/images/ingequipos/Accesorios-torre-gruas_Balde-Autodescargable.webp",
+        "/images/ingequipos/Accesorios-torre-gruas_Canasta-para-Estibas.webp",
+        "/images/ingequipos/Accesorios-torre-gruas_Eslinga-de-Nylon.webp",
+        "/images/ingequipos/Accesorios-torre-gruas_Estrobos.webp"
+      ]
+    },
+    {
+      "id": "andamios-colgantes",
+      "title": "Andamios Colgantes",
+      "summary": "Plataformas suspendidas de nivel variable con sistema de elevación manual o eléctrico para ejecutar trabajos livianos a gran altura de forma rápida y segura para el operario.",
+      "details": [
+        "Alquiler de canastillas colgantes desde 1,30 metros de longitud",
+        "Guayas desde 40 a 100 metros de altura",
+        "Posibilidad de aumentar longitud por metros hasta lograr la altura deseada"
+      ],
+      "images": [
+        "/images/ingequipos/Andamios-Colgantes_1.webp",
+        "/images/ingequipos/Andamios-Colgantes_2.webp",
+        "/images/ingequipos/Andamios-Colgantes_3.webp"
+      ]
+    },
+    {
+      "id": "alquiler-bombas-y-mixer",
+      "title": "Alquiler de Bombas de Concreto y Mixer",
+      "summary": "Disponibilidad de bombas estacionarias de concreto y camiones mixer en alquiler para el transporte y colocación continua en obra, articulado con Grupo Coval.",
+      "details": [
+        "Alquiler de bombas de concreto estacionarias",
+        "Alquiler de mixer para obra",
+        "Atención comercial directa en el +57 316 2948000"
+      ],
+      "images": [
+        "/images/ingequipos/Alquiler-Bombas-Estacionarias.webp",
+        "/images/ingequipos/Alquiler-Mixer_1.webp",
+        "/images/ingequipos/Alquiler-Mixer_2.webp"
+      ]
+    },
+    {
+      "id": "mantenimiento-y-reparacion",
+      "title": "Mantenimiento y Reparación",
+      "summary": "Servicio técnico especializado en taller y mantenimiento preventivo y correctivo para maquinaria, equipos livianos y pesados, sistemas de formaletas y andamio multidireccional.",
+      "details": [
+        "Mantenimiento y reparación de maquinaria y equipos de construcción",
+        "Mantenimiento de sistemas de formaletas",
+        "Revisión y mantenimiento de andamio multidireccional"
+      ],
+      "images": [
+        "/images/ingequipos/Mantenimiento-y-Reparacion.webp"
+      ]
+    }
+  ],
+  "clients": {
+    "names": [
+      "Ingeurbe",
+      "Coninsa",
+      "Constructora Colpatria",
+      "Cumbrera",
+      "Conconcreto",
+      "Las Galias Constructora",
+      "ARPRO",
+      "Kale Construcciones y Proyectos",
+      "Amarilo",
+      "Constructora Bolívar",
+      "Constructora Normandía",
+      "Polaris Constructora",
+      "Los Sauces"
+    ],
+    "strips": [
+      {
+        "dark": "/images/ingequipos/Clientes_1-dark.webp",
+        "light": "/images/ingequipos/Clientes_1-clean.webp",
+        "alt": "Clientes de VT Ingequipos: Ingeurbe, Coninsa, Constructora Colpatria, Cumbrera y Conconcreto"
+      },
+      {
+        "dark": "/images/ingequipos/Clientes_2-dark.webp",
+        "light": "/images/ingequipos/Clientes_2-clean.webp",
+        "alt": "Clientes de VT Ingequipos: Las Galias Constructora, ARPRO, Kale Construcciones, Amarilo y Constructora Bolívar"
+      },
+      {
+        "dark": "/images/ingequipos/Clientes_3-dark.webp",
+        "light": "/images/ingequipos/Clientes_3-clean.webp",
+        "alt": "Clientes de VT Ingequipos: Constructora Normandía, Polaris Constructora y Los Sauces"
+      }
+    ]
+  },
+  "allies": {
+    "names": [
+      "HILTI",
+      "Pedrollo",
+      "BOSCH",
+      "BARNES de Colombia S.A.",
+      "Ignacio Gómez IHM"
+    ],
+    "dark": "/images/ingequipos/Aliados-ingequipos-dark.webp",
+    "light": "/images/ingequipos/Aliados-ingequipos-clean.webp",
+    "alt": "Aliados de VT Ingequipos: HILTI, Pedrollo, Bosch, Barnes de Colombia y Ignacio Gómez IHM"
+  },
+  "faqs": [
+    {
+      "question": "¿Qué modalidades de servicio ofrece VT Ingequipos S.A.S.?",
+      "answer": "VT Ingequipos presta simultáneamente servicios de alquiler, venta, mantenimiento y reparación de equipos, maquinaria y sistemas de formaleta para el sector de la construcción y el agro."
+    },
+    {
+      "question": "¿Cuáles son las seis líneas del catálogo de equipos?",
+      "answer": "Nuestro catálogo agrupa 64 referencias en seis líneas: Línea Eléctrica (26 equipos), Línea Diésel | Gasolina (17 equipos), Línea General (8 equipos), Línea Maquinaria Pesada (5 equipos), Línea Multifuncional (4 equipos) y Línea Limpieza (4 equipos)."
+    },
+    {
+      "question": "¿Qué características tienen los encofrados Steel-Ply y los andamios colgantes?",
+      "answer": "Los encofrados Steel-Ply combinan paneles modulares en madera contrachapada laminada sobre bastidores de acero reutilizables hasta 200 veces. Los andamios colgantes cuentan con elevación manual o eléctrica en canastillas desde 1,30 m y guayas de 40 a 100 m ampliables según la altura de la obra."
+    },
+    {
+      "question": "¿Cómo cotizo el alquiler o compra de equipos?",
+      "answer": "Puede revisar cada equipo en el catálogo (/alquiler), armar su lista de cotización múltiple o comunicarse directamente al +57 316 2948000 y vtingequipos1@gmail.com."
+    }
+  ]
+}

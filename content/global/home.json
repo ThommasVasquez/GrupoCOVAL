@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "eyebrow": "Grupo Coval · Venta de concreto y alquiler de equipos",
+    "h1": "Estamos listos para acompañar su próximo proyecto",
+    "geoQuestion": "¿Qué empresas integran Grupo Coval y dónde prestan servicio?",
+    "geoAnswer": "Grupo Coval reúne a Coval Concretos (planta automatizada de 45 m³/h y 7 mixers en el Km 5 vía Bogotá-Girardot), VT Ingequipos S.A.S. (más de 20 años en alquiler, venta y mantenimiento de equipos y formaleta) e Icopores Modulado (más de 10 años en soluciones de icopor EPS en el Km 14 vía Bogotá-Girardot). Atención comercial al +57 316 2948000 para Soacha, Sibaté y Bogotá."
+  },
+  "scrollyStages": [
+    {
+      "stepCode": "GRUPO COVAL",
+      "brand": "grupo",
+      "badge": "Tres líneas de negocio integradas",
+      "title": "Concreto premezclado, maquinaria para construcción y soluciones en icopor",
+      "description": "Unimos la producción de concreto en planta automatizada, la disponibilidad de maquinaria y sistemas de formaleta, y la fabricación de piezas en poliestireno expandido (EPS) bajo un mismo contacto comercial (+57 316 2948000).",
+      "metrics": [
+        { "label": "Unidades", "value": "3 empresas" },
+        { "label": "Cobertura", "value": "Soacha · Sibaté · Bogotá" },
+        { "label": "Contacto", "value": "+57 316 2948000" }
+      ],
+      "primaryCta": {
+        "label": "Cotizador de concreto",
+        "href": "/cotizador-concreto"
+      },
+      "secondaryCta": {
+        "label": "Solicitar asesoría",
+        "href": "/contacto"
+      },
+      "layerTarget": "all"
+    },
+    {
+      "stepCode": "COVAL CONCRETOS",
+      "brand": "concretos",
+      "badge": "Planta Km 5 vía Bogotá-Girardot",
+      "title": "Producción, transporte y suministro de concreto premezclado",
+      "description": "Empresa colombiana fundada el 15 de septiembre de 2021. Planta automatizada con capacidad de 45 m³/h, 7 mixers (respuesta por ronda de 54 m³), asistencia técnica, bombeo estacionario y autobomba en líneas convencional-bombeable, módulo de rotura (MR), industrializado y tremie/tornillo.",
+      "metrics": [
+        { "label": "Planta", "value": "45 m³/h" },
+        { "label": "Flota", "value": "7 mixers (54 m³/ronda)" },
+        { "label": "Ubicación", "value": "Km 5 vía Bogotá-Girardot" }
+      ],
+      "primaryCta": {
+        "label": "Ver Coval Concretos",
+        "href": "/"
+      },
+      "secondaryCta": {
+        "label": "Calcular concreto (m³)",
+        "href": "/cotizador-concreto"
+      },
+      "layerTarget": "foundation"
+    },
+    {
+      "stepCode": "VT INGEQUIPOS",
+      "brand": "ingequipos",
+      "badge": "Más de 20 años de experiencia",
+      "title": "Venta, alquiler, mantenimiento y reparación de maquinaria y formaleta",
+      "description": "Fundada en Bogotá hace más de 20 años. Portafolio en líneas eléctrica, diésel/gasolina, general, maquinaria pesada, multifuncional y limpieza, además de encofrados Steel-Ply, accesorios para torres grúa, andamios colgantes (1,30 m con guayas de 40 a 100 m), bombas de concreto y alquiler de mixer.",
+      "metrics": [
+        { "label": "Experiencia", "value": "+20 años" },
+        { "label": "Líneas", "value": "6 categorías" },
+        { "label": "Servicios", "value": "Alquiler · Venta · Taller" }
+      ],
+      "primaryCta": {
+        "label": "Ver VT Ingequipos",
+        "href": "/vt-ingequipos"
+      },
+      "secondaryCta": {
+        "label": "Catálogo de equipos",
+        "href": "/alquiler"
+      },
+      "layerTarget": "machinery"
+    },
+    {
+      "stepCode": "ICOPORES MODULADO",
+      "brand": "icopores",
+      "badge": "Planta Km 14 vía Bogotá-Girardot",
+      "title": "Casetones, muro panel y juntas de dilatación en poliestireno expandido (EPS)",
+      "description": "Más de 10 años de experiencia en el sector constructor fabricando casetón modulado para aligeramiento de losas, casetón perdido para forjados unidireccionales y reticulares, muro panel y juntas de dilatación.",
+      "metrics": [
+        { "label": "Experiencia", "value": "+10 años" },
+        { "label": "Planta", "value": "Km 14 vía Bogotá-Girardot" },
+        { "label": "Productos", "value": "Casetones · Muro Panel · Juntas" }
+      ],
+      "primaryCta": {
+        "label": "Ver Icopores Modulado",
+        "href": "/icopores-modulado"
+      },
+      "secondaryCta": {
+        "label": "Estimar casetones",
+        "href": "/icopores-modulado#estimador-casetones"
+      },
+      "layerTarget": "slabs"
+    }
+  ],
+  "synergyMatrix": [
+    {
+      "stage": "Suministros principales",
+      "concretos": "Concreto premezclado: Convencional-Bombeable, Módulo de Rotura (MR), Industrializado y Tremie / Tornillo.",
+      "ingequipos": "Equipos en línea eléctrica, diésel/gasolina, general, maquinaria pesada, multifuncional y limpieza.",
+      "icopores": "Casetón modulado, casetón perdido, muro panel y juntas de dilatación en poliestireno expandido (EPS)."
+    },
+    {
+      "stage": "Servicios especializados",
+      "concretos": "Bombeo estacionario, autobomba y asistencia técnica en obra.",
+      "ingequipos": "Encofrados Steel-Ply, accesorios para torres grúa, andamios colgantes, bombas de concreto, alquiler de mixer, mantenimiento y reparación.",
+      "icopores": "Acompañamiento en anteproyectos de presupuesto, dirección, seguridad y certificados."
+    },
+    {
+      "stage": "Capacidad y respaldo",
+      "concretos": "Planta automatizada de 45 m³/h y 7 mixers (respuesta por ronda 54 m³) en Km 5 vía Bogotá-Girardot.",
+      "ingequipos": "Más de 20 años desde su fundación en Bogotá con equipo técnico y de control de calidad.",
+      "icopores": "Más de 10 años en el sector constructor desde Km 14 vía Bogotá-Girardot."
+    }
+  ],
+  "zonesOverview": [
+    {
+      "slug": "soacha",
+      "name": "Soacha",
+      "href": "/zonas/soacha",
+      "distanceNote": "Planta Coval Concretos en Km 5 vía Bogotá-Girardot",
+      "summary": "Atención directa desde nuestras instalaciones sobre la vía Bogotá–Girardot para proyectos constructivos en el municipio de Soacha."
+    },
+    {
+      "slug": "sibate",
+      "name": "Sibaté",
+      "href": "/zonas/sibate",
+      "distanceNote": "Planta Icopores en Km 14 vía Bogotá-Girardot",
+      "summary": "Suministro de concreto premezclado, equipos y soluciones en EPS sobre el corredor hacia el municipio de Sibaté."
+    },
+    {
+      "slug": "bogota",
+      "name": "Bogotá D.C.",
+      "href": "/zonas/bogota",
+      "distanceNote": "Cobertura en Bogotá, Soacha y Sibaté",
+      "summary": "Despacho de concreto premezclado con bombeo, alquiler/venta de equipos VT Ingequipos y piezas de EPS en Bogotá."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué empresas integran Grupo Coval y cómo puedo contactarlas?",
+      "answer": "Grupo Coval agrupa a Coval Concretos (Km 5 vía Bogotá-Girardot), VT Ingequipos S.A.S. (más de 20 años en maquinaria y formaleta) e Icopores Modulado (Km 14 vía Bogotá-Girardot). Puede comunicarse por teléfono o WhatsApp al +57 316 2948000."
+    },
+    {
+      "question": "¿Cuál es la capacidad de planta y flota de Coval Concretos?",
+      "answer": "La planta automatizada de Coval Concretos ubicada en el Kilómetro 5 vía Bogotá-Girardot cuenta con capacidad de 45 m³/h y una flota de 7 mixers con respuesta por ronda de 54 m³."
+    },
+    {
+      "question": "¿Qué servicios especiales ofrece VT Ingequipos además de sus 6 líneas de maquinaria?",
+      "answer": "Además de las líneas eléctrica, diésel/gasolina, general, maquinaria pesada, multifuncional y limpieza, VT Ingequipos ofrece venta, alquiler, mantenimiento y reparación, encofrados Steel-Ply, accesorios para torres grúa (plataformas de descarga, estrobos, eslingas de nylon, baldes autodescargables y canastas para estibas), andamios colgantes, bombas de concreto y alquiler de mixer."
+    },
+    {
+      "question": "¿Qué productos fabrica Icopores Modulado?",
+      "answer": "Icopores Modulado fabrica casetón modulado, casetón perdido, muro panel y juntas de dilatación en poliestireno expandido (EPS) desde el Kilómetro 14 vía Bogotá-Girardot, con más de 10 años en el sector constructor."
+    },
+    {
+      "question": "¿Los estimados de las calculadoras en línea son definitivos?",
+      "answer": "No. Tanto el cotizador de concreto como el estimador de casetones calculan valores preliminares sujetos a validación técnica según planos y condiciones reales de obra."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "primaryNav": [
+    {
+      "label": "Coval Concretos",
+      "href": "/",
+      "brand": "concretos",
+      "description": "Concreto premezclado, bombeo y asistencia técnica · Km 5"
+    },
+    {
+      "label": "Icopores Modulado",
+      "href": "/icopores-modulado",
+      "brand": "icopores",
+      "description": "Casetones, muro panel y juntas en EPS · Km 14"
+    },
+    {
+      "label": "VT Ingequipos",
+      "href": "/vt-ingequipos",
+      "brand": "ingequipos",
+      "description": "Alquiler, venta y mantenimiento de equipos · +20 años"
+    }
+  ],
+  "quickTools": [
+    {
+      "label": "Cotizador de Concreto (m³)",
+      "href": "/cotizador-concreto",
+      "brand": "concretos"
+    },
+    {
+      "label": "Catálogo de Alquiler",
+      "href": "/alquiler",
+      "brand": "ingequipos"
+    },
+    {
+      "label": "Estimador de Casetones EPS",
+      "href": "/icopores-modulado#estimador-casetones",
+      "brand": "icopores"
+    }
+  ],
+  "zonesNav": [
+    {
+      "label": "Bogotá D.C.",
+      "href": "/zonas/bogota"
+    },
+    {
+      "label": "Soacha",
+      "href": "/zonas/soacha"
+    },
+    {
+      "label": "Sibaté",
+      "href": "/zonas/sibate"
+    }
+  ],
+  "legalNav": [
+    {
+      "label": "Política de Tratamiento de Datos (Ley 1581)",
+      "href": "/legal/politica-privacidad"
+    },
+    {
+      "label": "Política de Cookies",
+      "href": "/legal/politica-cookies"
+    }
+  ]
+}

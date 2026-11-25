@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "linea-electrica",
+    "name": "Línea Eléctrica",
+    "shortDescription": "Rotomartillos, martillos demoledores, pulidoras, sierras, equipos de soldadura, extractores, electrobombas y vibradores eléctricos.",
+    "coverImage": "/images/equipos/Martillo-demoledor-GSH-27VC-vt-equipos.webp"
+  },
+  {
+    "slug": "linea-diesel-gasolina",
+    "name": "Línea Diésel | Gasolina",
+    "shortDescription": "Vibrocompactadores tipo canguro y rana, plantas eléctricas, motobombas autocebantes, hidrolavadoras de alta presión, allanadoras y vibradores.",
+    "coverImage": "/images/equipos/Vibrocompactador-Tipo-canguro-vt-equipos.webp"
+  },
+  {
+    "slug": "linea-general",
+    "name": "Línea General",
+    "shortDescription": "Bombas sumergibles, electrobomba de alta presión, compresores, extractores industriales, estibadoras, medidor láser y multímetro.",
+    "coverImage": "/images/equipos/Compresor-de-aire-200lt-2.2KW-vt-equipos.webp"
+  },
+  {
+    "slug": "linea-maquinaria-pesada",
+    "name": "Línea Maquinaria Pesada",
+    "shortDescription": "Minicargador, rodillos doble tambor, generador diésel de 35 KWA y compresor neumático de 185 CFM.",
+    "coverImage": "/images/equipos/Minicargador-262D-vt-equipos.webp"
+  },
+  {
+    "slug": "linea-multifuncional",
+    "name": "Línea Multifuncional",
+    "shortDescription": "Pluma grúa con balde y canastilla, mezcladora de concreto, cortadora de pavimento y cortadora de ladrillo.",
+    "coverImage": "/images/equipos/Mezcladora-de-Concreto-vt-equipos.webp"
+  },
+  {
+    "slug": "linea-limpieza",
+    "name": "Línea Limpieza",
+    "shortDescription": "Hidrolavadora de 1500 PSI, brilladora industrial y aspiradoras industriales para obra y mantenimiento.",
+    "coverImage": "/images/equipos/Aspiradora-industrial-IVC-80-vt-equipos.webp"
+  }
+]

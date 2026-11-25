@@ -1,0 +1,107 @@
+{
+  "groupName": "Grupo Coval",
+  "legalName": "TODO: Razón social Grupo Coval",
+  "taxId": "TODO: NIT Grupo Coval",
+  "domain": "https://grupocoval.com.co",
+  "tagline": "Venta de concreto y alquiler de equipos para su próximo proyecto",
+  "summary": "Grupo Coval reúne tres unidades de negocio para el sector constructor en Soacha, Sibaté y Bogotá: Coval Concretos (fundada el 15 de septiembre de 2021, planta automatizada de 45 m³/h en el Km 5 vía Bogotá-Girardot), VT Ingequipos S.A.S. (fundada en Bogotá hace más de 20 años en alquiler, venta y mantenimiento de equipos) e Icopores Modulado (más de 10 años de experiencia en el Km 14 vía Bogotá-Girardot con soluciones en icopor EPS).",
+  "phoneDisplay": "+57 316 2948000",
+  "phoneE164": "+573162948000",
+  "whatsappNumber": "573162948000",
+  "email": "vtingequipos1@gmail.com",
+  "privacyEmail": "TODO: Correo oficial para protección de datos (Ley 1581)",
+  "headquarters": {
+    "streetAddress": "Kilómetro 5 vía Bogotá-Girardot (Coval Concretos) · Kilómetro 14 vía Bogotá-Girardot (Icopores Modulado)",
+    "addressLocality": "Soacha / Bogotá D.C.",
+    "addressRegion": "Cundinamarca",
+    "postalCode": "TODO: Código postal",
+    "addressCountry": "CO"
+  },
+  "openingHours": "TODO: Horario de atención oficial",
+  "serviceAreas": [
+    "Bogotá",
+    "Soacha",
+    "Sibaté"
+  ],
+  "socialLinks": [],
+  "companies": [
+    {
+      "id": "concretos",
+      "slug": "coval-concretos",
+      "name": "Coval Concretos",
+      "shortName": "Concretos",
+      "href": "/",
+      "badge": "Planta Km 5 vía Bogotá-Girardot",
+      "headline": "Producción, transporte y suministro de concreto premezclado",
+      "summary": "Empresa colombiana fundada el 15 de septiembre del 2021, dedicada a la producción, transporte y suministro de concreto premezclado. También prestamos los servicios de asistencia técnica, bombeo estacionario y autobomba.",
+      "address": "Kilómetro 5 vía Bogotá-Girardot",
+      "experienceLabel": "45 m³/h · 7 mixers",
+      "highlights": [
+        "Planta automatizada con capacidad de 45 m³/h",
+        "7 mixers / respuesta por ronda 54 m³",
+        "Convencional-bombeable, MR, industrializado y tremie/tornillo",
+        "Asistencia técnica, bombeo estacionario y autobomba"
+      ],
+      "logo": {
+        "src": "/images/brand/Logo_Coval.webp",
+        "alt": "Logo Coval Concretos"
+      },
+      "foundedLabel": "Fundada el 15 de septiembre de 2021",
+      "heroImage": "/images/concretos/Muro-cemento_Coval.webp"
+    },
+    {
+      "id": "icopores",
+      "slug": "icopores-modulado",
+      "name": "Icopores Modulado",
+      "shortName": "Icopores",
+      "href": "/icopores-modulado",
+      "badge": "Km 14 vía Bogotá-Girardot",
+      "headline": "Soluciones en icopor (EPS) para proyectos inmobiliarios",
+      "summary": "Más de 10 años de experiencia en el mercado fabricando casetón modulado, casetón perdido, muro panel y juntas de dilatación en poliestireno expandido (EPS), con apoyo en anteproyectos de presupuesto, dirección, seguridad y certificados.",
+      "address": "Kilómetro 14 vía Bogotá-Girardot",
+      "experienceLabel": "+10 años en el mercado",
+      "highlights": [
+        "Casetón modulado para aligeramiento de losas",
+        "Casetón perdido para forjados unidireccionales y reticulares",
+        "Muro panel liviano de rápida instalación",
+        "Juntas de dilatación en poliestireno expandido (EPS)"
+      ],
+      "logo": {
+        "src": "/images/brand/Logo-IMT.webp",
+        "alt": "Logo Icopores Modulado"
+      },
+      "foundedLabel": "Más de 10 años en el sector constructor",
+      "heroImage": "/images/icopores/icopores-modular-tequedama_imagen-principal.webp"
+    },
+    {
+      "id": "ingequipos",
+      "slug": "vt-ingequipos",
+      "name": "VT Ingequipos",
+      "shortName": "Ingequipos",
+      "href": "/vt-ingequipos",
+      "badge": "Más de 20 años de experiencia",
+      "headline": "Venta, alquiler, mantenimiento y reparación de maquinaria y formaleta",
+      "summary": "Entidad privada fundada en Bogotá hace más de 20 años, orientada a entrega, fabricación, comercialización, venta, alquiler, mantenimiento y reparación de equipos y formaleta para construcción y agro.",
+      "address": "TODO: Dirección exacta sede VT Ingequipos",
+      "experienceLabel": "+20 años en obra",
+      "highlights": [
+        "Líneas: eléctrica, diésel/gasolina, general, pesada, multifuncional y limpieza",
+        "Encofrados Steel-Ply (hasta 200 usos)",
+        "Accesorios para torres grúa y andamios colgantes (guayas de 40 a 100 m)",
+        "Bombas de concreto y alquiler de mixer"
+      ],
+      "logo": {
+        "src": "/images/brand/Logo-Ingequipos-horizontal.webp",
+        "alt": "Logo VT Ingequipos"
+      },
+      "foundedLabel": "Fundada en Bogotá hace más de 20 años",
+      "heroImage": "/images/ingequipos/Banner_VT-_Ingequipos.webp"
+    }
+  ],
+  "logo": {
+    "src": "/images/brand/Logo_Coval.webp",
+    "width": 1024,
+    "height": 263,
+    "alt": "Logo Grupo Coval"
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "/images/brand/Boton-Coval.webp": {
+    "width": 890,
+    "height": 381
+  },
+  "/images/brand/Boton-imt.webp": {
+    "width": 863,
+    "height": 343
+  },
+  "/images/brand/Boton-VT.webp": {
+    "width": 889,
+    "height": 367
+  },
+  "/images/brand/Concretos-Premezclados-Coval.webp": {
+    "width": 1527,
+    "height": 208
+  },
+  "/images/brand/Grupo-Coval-Logo-light.webp": {
+    "width": 1013,
+    "height": 292
+  },
+  "/images/brand/Grupo-Coval-Logo.webp": {
+    "width": 1013,
+    "height": 292
+  },
+  "/images/brand/Logo_Coval-light.webp": {
+    "width": 1036,
+    "height": 267
+  },
+  "/images/brand/Logo_Coval.webp": {
+    "width": 1024,
+    "height": 263
+  },
+  "/images/brand/Logo-Ingequipos-horizontal-light.webp": {
+    "width": 634,
+    "height": 92
+  },
+  "/images/brand/Logo-Ingequipos-horizontal.webp": {
+    "width": 634,
+    "height": 92
+  },
+  "/images/brand/VT-Ingequipos-Logo.webp": {
+    "width": 1600,
+    "height": 336
+  },
+  "/images/concretos/Autobomba_1.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/concretos/Autobomba_2.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/concretos/Bomba-Estacionaria_1.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/concretos/Bomba-Estacionaria_2.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/concretos/Concreto-Cimentacion-Profunda-Coval.webp": {
+    "width": 900,
+    "height": 675
+  },
+  "/images/concretos/Concreto-de-Bombeo-Coval.webp": {
+    "width": 900,
+    "height": 675
+  },
+  "/images/concretos/Concreto-Industrializado-Coval.webp": {
+    "width": 901,
+    "height": 675
+  },
+  "/images/concretos/Concreto-Pisos-Coval.webp": {
+    "width": 900,
+    "height": 675
+  },
+  "/images/concretos/GALERIA-12.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-13.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-15.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-16.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-17.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-19.webp": {
+    "width": 601,
+    "height": 451
+  },
+  "/images/concretos/GALERIA-2.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-3.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/GALERIA-4.webp": {
+    "width": 600,
+    "height": 450
+  },
+  "/images/concretos/Muro-cemento_Coval.webp": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/concretos/Planta-sur_1.webp": {
+    "width": 900,
+    "height": 790
+  },
+  "/images/concretos/Planta-sur_2.webp": {
+    "width": 900,
+    "height": 790
+  },
+  "/images/concretos/Planta-sur_3.webp": {
+    "width": 900,
+    "height": 790
+  },
+  "/images/concretos/Planta-sur_6.webp": {
+    "width": 900,
+    "height": 790
+  },
+  "/images/concretos/Venta-Concreto-Premezclado.webp": {
+    "width": 600,
+    "height": 600
+  },
+  "/images/equipos-specs/Allanadora-36-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Aspiradora-industrial-IVC-80-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Aspiradora-industrial-NT-702-Me-Classic-VEX-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Benitin-350x350-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Bomba-autocebante-diesel-6-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Bomba-Sumergible-2-1C0016-vt-equipos-especificaciones-copia.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Bomba-Sumergible-3-1C0025-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 770
+  },
+  "/images/equipos-specs/Bomba-Sumergible-4-1C0061-vt-equipos-especificaciones-copia.webp": {
+    "width": 1200,
+    "height": 770
+  },
+  "/images/equipos-specs/Brilladora-industrial-KF-175-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Compresor-de-aire-200lt-2.2KW-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 770
+  },
+  "/images/equipos-specs/Compresor-neumatico-185-CFM-diesel-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Cortadora-de-ladrillo-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Cortadora-de-pavimento-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Ducto-ventilacion-TRDCT10127-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Electrobomba-de-alta-presion-2-1A0083-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 770
+  },
+  "/images/equipos-specs/Equipo-de-soldadura-400-TPX-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Equipo-de-soldadura-S300-C-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Estibadoras-manuales-carga-2500KG-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Extractor-industrial-16-VM-255317-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Extractor-industrial-24-VM-255319-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Generador-de-energia-diesel-35KWA-GSS30-2-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Guadanadora-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Hidrolavadora-1500psi-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Hidrolavadora-3000PSI-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Hidrolavadora-3600PSI-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Manguera-tipo-bombero-2-3-4-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Martillo-demoledor-GSH-11E-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Martillo-demoledor-GSH-11VC-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Martillo-demoledor-GSH-27VC-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 758
+  },
+  "/images/equipos-specs/Martillo-demoledor-GSH-5-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Medidor-laser-de-distancia-GLM-100C-vt-equipos-especificaciones-1.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Medidor-laser-de-distancia-GLM-100C-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Mezcladora-de-Concreto-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Mini-Pulidora-angular-4-GWS-9115-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Minicargador-262D-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Motobomba-autocebante-diesel-4-vt-equipos-especificaciones-1.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Motobomba-autocebante-diesel-4-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Motobomba-autocebante-gasolina-2-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Motobomba-autocebante-gasolina-3-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Motor-a-Gasolina-vt-equipos_Especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Mototool-punta-GGS-28-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Multimetro-digital-UT-151F-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Planta-Electrica-12-KWA-vt-equipos_especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Planta-Electrica-6KWA-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Pluma-grua-master-con-balde-y-canastilla-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Pulidora-angular-7-GWS20-180-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Pulidora-angular-9-GWS20-230-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Pulidora-concreto-GBR-14CA-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Rodillo-doble-tambor-BW-75H-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Rotomartillo-demoledor-GBH11-DE-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Rotomartillo-demoledor-GBH2-24DF-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Rotomartillo-demoledor-GBH4-32DFR-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Rotomartillo-demoledor-GBH5-40D-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Rotomartillo-demoledor-GBH8-45D-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Sierra-circular-GKS-67-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Sierra-ingleteadora-GCM-12X-vt-equipo-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Taladro-rotacion-reversible-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Taladro-saca-nucleos-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Tronzadora-GCO-2000-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Vibrador-a-gasolina-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Vibrador-de-concreto-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 769
+  },
+  "/images/equipos-specs/Vibrocompactador-Tipo-canguro_vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Vibrocompactador-Tipo-canguro-2-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos-specs/Vibrocompactador-Tipo-Rana-vt-equipos-especificaciones.webp": {
+    "width": 1200,
+    "height": 768
+  },
+  "/images/equipos/Allanadora-36-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Aspiradora-industrial-IVC-80-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Aspiradora-industrial-NT-702-Me-Classic-VEX-vt-equipo.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Benitin-350x350-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Bomba-autocebante-diesel-6-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Bomba-Sumergible-2-1C0016-vt-equipos.webp": {
+    "width": 603,
+    "height": 604
+  },
+  "/images/equipos/Bomba-Sumergible-3-1C0025-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Bomba-Sumergible-4-1C0061-vt-equipos-copia.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Brilladora-industrial-KF-175-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Compresor-de-aire-200lt-2.2KW-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Compresor-neumatico-185-CFM-diesel-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Cortadora-de-ladrillo-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Cortadora-de-pavimento-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Ducto-ventilacion-TRDCT10127-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Electrobomba-de-alta-presion-2-1A0083-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Equipo-de-soldadura-400-TPX-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Equipo-de-soldadura-S300-C-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Estibadoras-manuales-carga-2500KG-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Extractor-industrial-16-VM-255317-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Extractor-industrial-24-VM-255319-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Generador-de-energia-diesel-35KWA-GSS30-2-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Guadanadora-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Hidrolavadora-1500psi-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Hidrolavadora-3000PSI-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Hidrolavadora-3600PSI-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Manguera-tipo-bombero-2-3-4-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Martillo-demoledor-GSH-11E-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Martillo-demoledor-GSH-11VC-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Martillo-demoledor-GSH-27VC-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Martillo-demoledor-GSH-5-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Medidor-laser-de-distancia-GLM-100C-vt-equipos-1.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Mezcladora-de-Concreto-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Mini-Pulidora-angular-4-GWS-9115-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Minicargador-262D-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Motobomba-autocebante-diesel-4-vt-equipos-1.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Motobomba-autocebante-diesel-4-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Motobomba-autocebante-gasolina-2-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Motobomba-autocebante-gasolina-3-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Motor-a-Gasolina-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Mototool-punta-GGS-28-vt-equipos.webp": {
+    "width": 603,
+    "height": 604
+  },
+  "/images/equipos/Multimetro-digital-UT-151F-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Planta-Electrica-12-KWA-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Planta-Electrica-6KWA-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Pluma-grua-master-con-balde-y-canastilla-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Pulidora-angular-7-GWS20-180-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Pulidora-angular-9-GWS20-230-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Pulidora-concreto-GBR-14CA-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Rodillo-doble-tambor-BW-75H-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Rodillo-doble-tambor-persona-sentada-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Rotomartillo-demoledor-GBH11-DE-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Rotomartillo-demoledor-GBH2-24DF-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Rotomartillo-demoledor-GBH4-32DFR-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Rotomartillo-demoledor-GBH5-40D-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Rotomartillo-demoledor-GBH8-45D-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Sierra-circular-GKS-67-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Sierra-ingleteadora-GCM-12X-vt-equipo.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Taladro-rotacion-reversible-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Taladro-saca-nucleos-vt-equipos.webp": {
+    "width": 604,
+    "height": 603
+  },
+  "/images/equipos/Tronzadora-GCO-2000-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Vibrador-a-gasolina-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/equipos/Vibrador-de-concreto-vt-equipos.webp": {
+    "width": 603,
+    "height": 603
+  },
+  "/images/equipos/Vibrocompactador-Tipo-canguro-2-vt-equipos.webp": {
+    "width": 700,
+    "height": 656
+  },
+  "/images/equipos/Vibrocompactador-Tipo-canguro-vt-equipos.webp": {
+    "width": 603,
+    "height": 604
+  },
+  "/images/equipos/Vibrocompactador-Tipo-Rana-vt-equipos.webp": {
+    "width": 601,
+    "height": 601
+  },
+  "/images/icopores/icopores-modular-tequedama_imagen_2.webp": {
+    "width": 1425,
+    "height": 1631
+  },
+  "/images/icopores/icopores-modular-tequedama_imagen_3.webp": {
+    "width": 725,
+    "height": 406
+  },
+  "/images/icopores/icopores-modular-tequedama_imagen-principal.webp": {
+    "width": 1600,
+    "height": 1236
+  },
+  "/images/icopores/icopores-modular-tequedama_producto-1.webp": {
+    "width": 920,
+    "height": 915
+  },
+  "/images/icopores/icopores-modular-tequedama_producto-2.webp": {
+    "width": 921,
+    "height": 916
+  },
+  "/images/icopores/icopores-modular-tequedama_producto-3.webp": {
+    "width": 921,
+    "height": 915
+  },
+  "/images/icopores/icopores-modular-tequedama_producto-4.webp": {
+    "width": 921,
+    "height": 915
+  },
+  "/images/ingequipos/Accesorios-torre-gruas_Balde-Autodescargable.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Accesorios-torre-gruas_Canasta-para-Estibas.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Accesorios-torre-gruas_Eslinga-de-Nylon.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Accesorios-torre-gruas_Estrobos.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Accesorios-torre-gruas_Plataforma-de-Descargue.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Alquiler-Bombas-Estacionarias.webp": {
+    "width": 600,
+    "height": 601
+  },
+  "/images/ingequipos/Alquiler-Mixer_1.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Alquiler-Mixer_2.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Andamios-Colgantes_1.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Andamios-Colgantes_2.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Banner_VT-_Ingequipos.webp": {
+    "width": 1600,
+    "height": 601
+  },
+  "/images/ingequipos/Encofrados-Steel-Ply_1.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Encofrados-Steel-Ply_2.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Encofrados-Steel-Ply_3.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Mantenimiento-y-Reparacion.webp": {
+    "width": 900,
+    "height": 670
+  },
+  "/images/sketches/engineering-exploded.webp": {
+    "width": 1376,
+    "height": 768
+  },
+  "/images/sketches/hero-perspective.webp": {
+    "width": 1376,
+    "height": 768
+  },
+  "/images/brand/Logo-IMT.webp": {
+    "width": 424,
+    "height": 264
+  },
+  "/images/brand/Logo-IMT-light.webp": {
+    "width": 424,
+    "height": 264
+  },
+  "/images/sketches/concretos-plant-pump.webp": {
+    "width": 1376,
+    "height": 768
+  },
+  "/images/sketches/ingequipos-crane-steelply.webp": {
+    "width": 1376,
+    "height": 768
+  },
+  "/images/sketches/icopores-eps-slab.webp": {
+    "width": 1376,
+    "height": 768
+  },
+  "/images/concretos/Aliados.webp": {
+    "width": 1600,
+    "height": 133
+  },
+  "/images/concretos/Aliados-clean.webp": {
+    "width": 1514,
+    "height": 85
+  },
+  "/images/concretos/Aliados-dark.webp": {
+    "width": 1514,
+    "height": 85
+  },
+  "/images/ingequipos/Aliados-ingequipos-clean.webp": {
+    "width": 2450,
+    "height": 138
+  },
+  "/images/ingequipos/Aliados-ingequipos-dark.webp": {
+    "width": 2450,
+    "height": 138
+  },
+  "/images/ingequipos/Andamios-Colgantes_3.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Clientes_1-clean.webp": {
+    "width": 2401,
+    "height": 127
+  },
+  "/images/ingequipos/Clientes_1-dark.webp": {
+    "width": 2401,
+    "height": 127
+  },
+  "/images/ingequipos/Clientes_2-clean.webp": {
+    "width": 2383,
+    "height": 193
+  },
+  "/images/ingequipos/Clientes_2-dark.webp": {
+    "width": 2383,
+    "height": 193
+  },
+  "/images/ingequipos/Clientes_3-clean.webp": {
+    "width": 1648,
+    "height": 158
+  },
+  "/images/ingequipos/Clientes_3-dark.webp": {
+    "width": 1648,
+    "height": 158
+  },
+  "/images/ingequipos/Encofrados-Steel-Ply_4.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/ingequipos/Encofrados-Steel-Ply_5.webp": {
+    "width": 901,
+    "height": 671
+  },
+  "/images/brand/Energysoftmedia-dark.webp": {
+    "width": 602,
+    "height": 165
+  },
+  "/images/brand/Energysoftmedia-light.webp": {
+    "width": 602,
+    "height": 165
+  }
+}
